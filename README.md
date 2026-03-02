@@ -4,6 +4,10 @@ Restaurant profit simulator is a restaurant profitability simulation engine crea
 
 The project aims to help restaurants visualise and understand the growth of delivery apps and how they will perform for their restaurant business, enabling them to make data-driven marketing decisions.
 
+## Interface Preview
+
+![Simulation Screenshot](https://raw.githubusercontent.com/atawhaidigital/orderflow-restaurant-profit-analyser/main/screencapture-orderflow-simulation-pages-dev-2026-03-02-13_26_09.png)
+
 # Deployment link:
 https://orderflow-simulation.pages.dev/
 
